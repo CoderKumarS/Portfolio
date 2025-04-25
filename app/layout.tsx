@@ -9,23 +9,14 @@ import ThemeSwitch from "@/components/theme-switch";
 import ThemeContextProvider from "@/context/theme-context";
 import { Toaster } from "react-hot-toast";
 import CustomCursor from "@/components/CustomCursor";
-
+import { metadata } from "@/lib/metadata";
 const inter = Inter({ subsets: ["latin"] });
-
-export const metadata = {
-  title: "Sujal | Personal Portfolio",
-  description: "Sujal is a full-stack developer.",
-  icons:{
-    icon: "/favicon.ico",
-  }
-};
 
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-
   return (
     <html lang="en" className="!scroll-smooth">
       <body
