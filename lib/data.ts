@@ -104,7 +104,7 @@ export const certificates = [
       "A comprehensive course covering core and advanced Java concepts, including OOP principles, data structures, and algorithms.",
     tags: ["Java", "OOP", "Data Structures"],
     imageUrl: PSIII,
-    url: "https://github.com/M-Pushkar-Varshney-K/CipherSchools-Hybrid-DS-ML",
+    url: "",
   },
   {
     title: "Internet of Things by NPTEL",
@@ -112,7 +112,7 @@ export const certificates = [
       "A foundational course on IoT concepts, architecture, and applications, providing hands-on experience with sensors, embedded systems, and network integration.",
     tags: ["IoT", "Sensors", "Embedded Systems", "NPTEL"],
     imageUrl: NPTEL,
-    url: "https://drive.google.com/file/d/1c_fI0wOsN-IWvujRe6XLKtmj-5S4Y0Oy/view?usp=sharing",
+    url: "",
   },
 ] as const;
 
