@@ -112,7 +112,7 @@ export const certificates = [
       "A foundational course on IoT concepts, architecture, and applications, providing hands-on experience with sensors, embedded systems, and network integration.",
     tags: ["IoT", "Sensors", "Embedded Systems", "NPTEL"],
     imageUrl: NPTEL,
-    url: "",
+    url: "https://www.linkedin.com/in/sujalkumar-coderkumars/details/certifications/1732207041316/single-media-viewer/?type=DOCUMENT&profileId=ACoAAErHepMBofnOtV2J8QJI7r7J6W22EMaQ53E",
   },
 ] as const;
 
@@ -123,7 +123,7 @@ export const projectsData = [
       "An in-browser code editor that supports multiple programming languages. Users can write, compile, and run code in real-time, save the code, share the code and formate the code, making it perfect for learning and testing small programs instantly.",
     tags: ["React", "MongoDB", "Tailwind", "Express", "Node.js"],
     imageUrl: IDE,
-    url: "https://github.com/M-Pushkar-Varshney-K/Online-IDE",
+    url: "https://github.com/CoderKumarS/Compiler",
   },
   {
     title: "Artisary",

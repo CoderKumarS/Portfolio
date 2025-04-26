@@ -10,7 +10,7 @@ I am a passionate developer who loves building innovative solutions and learning
 
 Here are some of the projects I have worked on:
 
-- **[Online IDE](https://github.com/M-Pushkar-Varshney-K/Online-IDE)**: An in-browser code editor supporting multiple programming languages. Users can write, compile, and run code in real-time, save, share, and format their code.
+- **[Online IDE](https://github.com/CoderKumarS/Compiler)**: An in-browser code editor supporting multiple programming languages. Users can write, compile, and run code in real-time, save, share, and format their code.
 - **[Artisary](https://github.com/CoderKumarS/Artistry)**: An artistic e-commerce platform supporting local artisans. Users can browse, buy, and showcase handmade art products.
 - **[UrbanNest](https://github.com/CoderKumarS/UrbanNest)**: A real estate platform connecting buyers and sellers. Users can list properties, search for homes, and get market insights.
 - **[EMS (Employee Management System)](https://react-project-jade-eight.vercel.app/)**: A web-based system for HR operations, tracking employee details, attendance, roles, and performance insights.
